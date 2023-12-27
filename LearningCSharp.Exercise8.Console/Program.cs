@@ -47,5 +47,5 @@ else if (figure == 3)
 }
 else
 {
-    //Console.WriteLine("none matches");
+    Console.WriteLine("none matches");
 }
